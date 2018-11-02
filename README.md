@@ -13,9 +13,14 @@ Tutoriales de las libretas en mi [página](https://vincentblog.xyz/).
 
 [Link al tutorial](https://vincentblog.xyz/posts/logistic-regression-desde-cero-con-python)
 
-### Neuronal networks
+### Neuronal networks from scratch
 
 [Link para ver la libreta](https://nbviewer.jupyter.org/github/vincent1bt/Machine-learning-tutorials-notebooks/blob/master/neuronalNetworks/Redes_Neuronales_1.ipynb)
 
 [Link al tutorial](https://vincentblog.xyz/posts/redes-neuronales-desde-cero-con-python)
 
+### Neuronal networks with keras
+
+[Link para ver la libreta](https://nbviewer.jupyter.org/github/vincent1bt/Machine-learning-tutorials-notebooks/blob/master/neuronalNetworks/NeuronalNetworksWithKeras.ipynb)
+
+[Link al tutorial](https://vincentblog.xyz/posts/como-crear-una-red-neuronal-con-keras)
