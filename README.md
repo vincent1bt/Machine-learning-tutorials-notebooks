@@ -24,3 +24,9 @@ Tutoriales de las libretas en mi [página](https://vincentblog.xyz/).
 [Link para ver la libreta](https://nbviewer.jupyter.org/github/vincent1bt/Machine-learning-tutorials-notebooks/blob/master/neuronalNetworks/NeuronalNetworksWithKeras.ipynb)
 
 [Link al tutorial](https://vincentblog.xyz/posts/como-crear-una-red-neuronal-con-keras)
+
+### CNN with keras
+
+[Link para ver la libreta](https://nbviewer.jupyter.org/github/vincent1bt/Machine-learning-tutorials-notebooks/blob/master/neuronalNetworks/CNNTesla.ipynb)
+
+[Link al tutorial](https://vincentblog.xyz/posts/como-crear-una-red-neuronal-convolucional-con-keras)
