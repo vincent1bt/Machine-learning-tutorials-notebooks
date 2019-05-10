@@ -30,3 +30,9 @@ Tutoriales de las libretas en mi [página](https://vincentblog.xyz/).
 [Link para ver la libreta](https://nbviewer.jupyter.org/github/vincent1bt/Machine-learning-tutorials-notebooks/blob/master/neuronalNetworks/CNNTesla.ipynb)
 
 [Link al tutorial](https://vincentblog.xyz/posts/como-crear-una-red-neuronal-convolucional-con-keras)
+
+### GANs
+
+[Notebook](https://nbviewer.jupyter.org/github/vincent1bt/Machine-learning-tutorials-notebooks/blob/master/Gans/Gans.ipynb)
+
+[Post](https://vincentblog.xyz/posts/generative-adversarial-networks)
