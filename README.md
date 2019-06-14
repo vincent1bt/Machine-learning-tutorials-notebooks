@@ -1,38 +1,44 @@
 ## Machine learning Notebooks
 
-Tutoriales de las libretas en mi [página](https://vincentblog.xyz/).
+You can see these and more tutorials on [my page](https://vincentblog.xyz/).
 
 ### Regression Decision Tree
-[Link para ver la libreta](https://nbviewer.jupyter.org/github/vincent1bt/Machine-learning-tutorials-notebooks/blob/master/decisionTrees/decisionTreeTutorial1.ipynb)
+[Jupyter Notebook](https://nbviewer.jupyter.org/github/vincent1bt/Machine-learning-tutorials-notebooks/blob/master/decisionTrees/decisionTreeTutorial1.ipynb)
 
-[Link al tutorial]()
+[Link to post](https://vincentblog.xyz/posts/decision-trees-in-python)
 
 ### Logistic regression
 
-[Link para ver la libreta](https://nbviewer.jupyter.org/github/vincent1bt/Machine-learning-tutorials-notebooks/blob/master/logisticRegression/logisticRegression1.ipynb)
+[Jupyter Notebook](https://nbviewer.jupyter.org/github/vincent1bt/Machine-learning-tutorials-notebooks/blob/master/logisticRegression/logisticRegression1.ipynb)
 
-[Link al tutorial](https://vincentblog.xyz/posts/logistic-regression-desde-cero-con-python)
+[Link to post](https://vincentblog.xyz/posts/logistic-regression-from-scratch-in-python)
 
-### Neuronal networks from scratch
+### Neural networks from scratch
 
-[Link para ver la libreta](https://nbviewer.jupyter.org/github/vincent1bt/Machine-learning-tutorials-notebooks/blob/master/neuronalNetworks/Redes_Neuronales_1.ipynb)
+[Jupyter Notebook](https://nbviewer.jupyter.org/github/vincent1bt/Machine-learning-tutorials-notebooks/blob/master/neuronalNetworks/Redes_Neuronales_1.ipynb)
 
-[Link al tutorial](https://vincentblog.xyz/posts/redes-neuronales-desde-cero-con-python)
+[Link to post](https://vincentblog.xyz/posts/neural-networks-from-scratch-in-python)
 
-### Neuronal networks with keras
+### Neural networks with keras
 
-[Link para ver la libreta](https://nbviewer.jupyter.org/github/vincent1bt/Machine-learning-tutorials-notebooks/blob/master/neuronalNetworks/NeuronalNetworksWithKeras.ipynb)
+[Jupyter Notebook](https://nbviewer.jupyter.org/github/vincent1bt/Machine-learning-tutorials-notebooks/blob/master/neuronalNetworks/NeuronalNetworksWithKeras.ipynb)
 
-[Link al tutorial](https://vincentblog.xyz/posts/como-crear-una-red-neuronal-con-keras)
+[Link to post](https://vincentblog.xyz/posts/how-to-build-a-neural-network-with-keras)
 
 ### CNN with keras
 
-[Link para ver la libreta](https://nbviewer.jupyter.org/github/vincent1bt/Machine-learning-tutorials-notebooks/blob/master/neuronalNetworks/CNNTesla.ipynb)
+[Jupyter Notebook](https://nbviewer.jupyter.org/github/vincent1bt/Machine-learning-tutorials-notebooks/blob/master/neuronalNetworks/CNNTesla.ipynb)
 
-[Link al tutorial](https://vincentblog.xyz/posts/como-crear-una-red-neuronal-convolucional-con-keras)
+[Link to post](https://vincentblog.xyz/posts/how-to-build-a-convolutional-neural-network-with-keras)
 
 ### GANs
 
-[Notebook](https://nbviewer.jupyter.org/github/vincent1bt/Machine-learning-tutorials-notebooks/blob/master/Gans/Gans.ipynb)
+[Jupyter Notebook](https://nbviewer.jupyter.org/github/vincent1bt/Machine-learning-tutorials-notebooks/blob/master/Gans/Gans.ipynb)
 
-[Post](https://vincentblog.xyz/posts/generative-adversarial-networks)
+[Link to post](https://vincentblog.xyz/posts/generative-adversarial-networks)
+
+## Class Activation maps
+
+[Jupyter Notebook](https://nbviewer.jupyter.org/github/vincent1bt/Machine-learning-tutorials-notebooks/blob/master/activationMaps/ActivationsMaps.ipynb)
+
+[Link to post](https://vincentblog.xyz/posts/class-activation-maps)
