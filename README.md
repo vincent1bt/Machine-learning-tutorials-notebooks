@@ -37,8 +37,10 @@ You can see these and more tutorials on [my page](https://vincentblog.xyz/).
 
 [Link to post](https://vincentblog.xyz/posts/generative-adversarial-networks)
 
-## Class Activation maps
+### Class Activation maps
 
-[Jupyter Notebook](https://nbviewer.jupyter.org/github/vincent1bt/Machine-learning-tutorials-notebooks/blob/master/activationMaps/ActivationsMaps.ipynb)
+[MURA Jupyter Notebook](https://nbviewer.jupyter.org/github/vincent1bt/Machine-learning-tutorials-notebooks/blob/master/activationMaps/ActivationsMaps.ipynb)
+
+[Retinal OCT Jupyter Notebook](https://nbviewer.jupyter.org/github/vincent1bt/Machine-learning-tutorials-notebooks/blob/master/activationMaps/Retinal_OCT_Images.ipynb)
 
 [Link to post](https://vincentblog.xyz/posts/class-activation-maps)
