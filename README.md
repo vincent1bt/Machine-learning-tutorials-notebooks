@@ -44,3 +44,9 @@ You can see these and more tutorials on [my page](https://vincentblog.xyz/).
 [Retinal OCT Jupyter Notebook](https://nbviewer.jupyter.org/github/vincent1bt/Machine-learning-tutorials-notebooks/blob/master/activationMaps/Retinal_OCT_Images.ipynb)
 
 [Link to post](https://vincentblog.xyz/posts/class-activation-maps)
+
+### Cyclical Learning Rates and Weight Pruning
+
+[Jupyter Notebook](https://nbviewer.jupyter.org/github/vincent1bt/Machine-learning-tutorials-notebooks/blob/master/CycleLearningPruning.ipynb)
+
+[Link to post](https://vincentblog.xyz/posts/cyclical-learning-rates-and-weight-pruning)
