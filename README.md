@@ -50,3 +50,9 @@ You can see these and more tutorials on [my page](https://vincentblog.xyz/).
 [Jupyter Notebook](https://nbviewer.jupyter.org/github/vincent1bt/Machine-learning-tutorials-notebooks/blob/master/CycleLearningPruning.ipynb)
 
 [Link to post](https://vincentblog.xyz/posts/cyclical-learning-rates-and-weight-pruning)
+
+### Deep Tree Network and how to implement a network from a paper
+
+[Jupyter Notebook](https://nbviewer.jupyter.org/github/vincent1bt/Machine-learning-tutorials-notebooks/blob/master/TreeFace.ipynb)
+
+[Link to post](https://vincentblog.xyz/posts/deep-tree-network-and-how-to-implement-a-model-from-a-paper)
